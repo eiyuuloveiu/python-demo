@@ -10,6 +10,6 @@ Python
 
 4、pyenv install xxx 安装指定版本
 
-5、pyenv versions 查看系统安装的版本
+5、pyenv versions 查看系统安装的版本
 
 6、pyenv global xxx 使用指定版本
